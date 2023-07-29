@@ -1,7 +1,11 @@
 # python_telegram
 # python_telegram
 
-## for run 
-/speech Hello what's wrong
+
+## Text to audio
+![Screen 1](./img.png)
 
 or send audio format
+
+## audio to text
+![Screen 1](./img1.png)
